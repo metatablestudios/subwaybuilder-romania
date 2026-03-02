@@ -42,7 +42,7 @@
 
 ## Installation
 
-Use the [Subway Builder Map Manger](https://subwaybuildermodded.com/wiki/maps/map-installation-guide) and follow the instructions on how to install it from there.
+Use [Kronifer's Map Manager](https://subwaybuildermodded.com/wiki/maps/map-installation-guide) and follow the instructions on how to install it from there.
 
 After you've installed it press **add a map** and then select the zip file that you downloaded!
 
