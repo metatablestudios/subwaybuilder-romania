@@ -2,8 +2,9 @@
 I'm currently working on more maps to add to this pack. It's also my first map that I release!
 
 **Bucharest**  
+>  The Bucharest greater metropolitan area including Ilfov and Otopeni Airport.
 >  Population: ~2 Million
->  *Note: The demand that is a bit broken for workers, will be fixed at a later date!* 
+>  Note: The demand that is a bit broken for workers, will be fixed at a later date!
 >  [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/BUC-1.0/BUC.zip)
 
 ## Installation

@@ -1,0 +1,16 @@
+{
+    "name": "Bucharest",
+    "code": "BUC",
+    "country": "RO",
+    "description": "The greater metropolitan area of Bucharest. Also known as the Little Paris!",
+    "population": 2310000,
+    "thumbnailBbox": [25.659513,44.226576,26.438310,44.650252],
+      "initialViewState": {
+        "zoom": 15,
+        "latitude": 44.438414,
+        "longitude": 26.048912,
+        "bearing": 0
+    },
+    "creator": "the.inspector",
+    "version": "1.0"
+}
