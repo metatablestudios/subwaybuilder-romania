@@ -4,7 +4,7 @@
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
 ---
-### 🌆Bucharest
+### 🌆Bucharest (Capital)
 > This map contains Bucharest and the greater metropolitan area. It is the capital of Romania, located in the southeastern part of the country. Also nicknamed the Little Paris or the Paris of the East.
 > 
 > **Population:** ~2.5 Million (Including Ilfov county)
@@ -19,7 +19,7 @@
 > 
 > **Population:** 308 300
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Coming%20Soon-yellow?style=for-the-badge)
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Releasing%20Soon-cyan?style=for-the-badge)
 
 ----
 
@@ -28,7 +28,7 @@
 > 
 > **Population:** ~300 000
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Coming%20Soon-yellow?style=for-the-badge)
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
 
 ----
 
@@ -37,7 +37,7 @@
 > 
 > **Population:** 184 500
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Coming%20Soon-yellow?style=for-the-badge)
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
 
 
 ## Installation
