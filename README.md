@@ -16,8 +16,10 @@
 > Romania’s second-largest city and the unofficial capital of Transylvania. Located in northwestern Romania in the Somesul Mic River valley, surrounded by hills, it is the capital of Cluj County.
 > 
 > 👤**Population:** 308 300
-> 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Releasing%20Soon-cyan?style=for-the-badge)
+>
+> *Official map will be available after the current experimental map has been thourghly tested*
+>
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Experimental%20Map-orange?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/v1.0/CLJ.zip)
 
 ----
 
