@@ -2,6 +2,8 @@
 ## 🇷🇴 Romanian City Pack
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
+*Note: The maps demand data do not contain schools & airports data, the demand data will receive an update soon.*
+
 ---
 ### 🌆Bucharest (Capital)
 > This map contains Bucharest and the greater metropolitan area. It is the capital of Romania, located in the southeastern part of the country. Also nicknamed the Little Paris or the Paris of the East.
