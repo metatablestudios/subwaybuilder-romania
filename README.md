@@ -1,5 +1,5 @@
 ![Subway Builder Romania](https://cloud.metatablestudios.com/index.php/s/F8bkBJyir5jbz7j/preview)
-## 🇷🇴 Romanian City Maps
+## 🇷🇴 Romanian City Pack
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
 ---
@@ -39,6 +39,18 @@
 > 
 > ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
 
+## 🚇Romanian Metro Trains
+
+### Bombardier Movia 346
+> Used on multiple real life metro lines such as the M1, M3 and M5.
+> 
+> 👤**Capacity:** 1200 passangers
+>
+> 🚊**Train Cars:** 6 cars
+>
+> 📏**Length:** ~110 meters
+> 
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Coming%20Soon-yellow?style=for-the-badge)
 
 ## 🛠️ Installation
 
