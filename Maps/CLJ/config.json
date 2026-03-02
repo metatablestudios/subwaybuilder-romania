@@ -1,0 +1,16 @@
+{
+    "name": "Cluj-Napoca",
+    "code": "CLJ",
+    "country": "RO",
+    "description": "The second largest city by population in Romania. Located in northwestern Romania in the Somesul Mic River valley.",
+    "population": 2310000,
+    "thumbnailBbox": [23.406059, 46.698164, 23.766613, 46.829656],
+      "initialViewState": {
+        "zoom": 15,
+        "latitude": 46.739164,
+        "longitude": 23.526059,
+        "bearing": 0
+    },
+    "creator": "the.inspector",
+    "version": "1.0"
+}
