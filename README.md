@@ -6,8 +6,8 @@
 ---
 ### 🌆Bucharest
 > This map contains Bucharest and the greater metropolitan area. It is the capital of Romania, located in the southeastern part of the country. Also nicknamed the Little Paris or the Paris of the East.
-**Population:** ~2.5 Million (Including Ilfov county)
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Bucharest%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/BUC-1.0/BUC.zip)
+> **Population:** ~2.5 Million (Including Ilfov county)
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Bucharest%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/BUC-1.0/BUC.zip)
 ###### **Note:** The demand that is a bit broken for workers, will be fixed at a later date!
 
 ----
