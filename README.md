@@ -2,7 +2,10 @@
 ## 🇷🇴 Romanian City Pack
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
-*Note: The maps demand data do not contain schools & airports data, the demand data will receive an update soon.*
+### Disclaimers
+- Map demand data do not contain schools & airports data, the demand data will receive an update soon.
+- Demand data will be updated once all listed maps have an experimental or official build.
+- All population data listed below is from 2021.
 
 ---
 ### 🌆Bucharest (Capital)
@@ -25,10 +28,28 @@
 
 ----
 
+### Iasi
+> A major historical and cultural city, located in northeastern Romania, in the historical region of Moldovia.
+> 
+> 👤**Population:** 271 000
+> 
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Actively%20worked%20on-green?style=for-the-badge)
+
+----
+
 ### Timisoara
 > Vibrant city in western Romania, the capital of Timis County and the unofficial capital of the Banat region.
 > 
-> 👤**Population:** ~300 000
+> 👤**Population:** 250 000
+> 
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
+
+----
+
+### Brasov
+> Located in the Carpathian Mountains, a historic and scenic city in central Romania.
+> 
+> 👤**Population:** 238 000
 > 
 > ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
 
@@ -39,7 +60,7 @@
 > 
 > 👤**Population:** 184 500
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Actively%20worked%20on-green?style=for-the-badge)
 
 ## 🚇Romanian Metro Trains
 
