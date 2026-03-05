@@ -1,13 +1,5 @@
 ![Subway Builder Romania](https://cloud.metatablestudios.com/index.php/s/sb-romania-cover/preview)
 ## 🇷🇴 Romanian City Pack
-*I'm currently working on more maps to add to this pack. It's also my first map that I release!*
-
-### Disclaimers
-- Map demand data does not contain schools & airports data, the demand data will receive an update soon.
-- Demand data will be updated once all listed maps have an experimental or official build.
-- All population data listed below is from 2021.
-
----
 ### 🌆Bucharest (Capital)
 > This map contains Bucharest and the greater metropolitan area. It is the capital of Romania, located in the southeastern part of the country. Also nicknamed the Little Paris or the Paris of the East.
 > 
@@ -86,6 +78,11 @@ Use [Kronifer's Map Manager](https://subwaybuildermodded.com/wiki/maps/map-insta
 After you've installed it press **add a map** and then select the zip file that you downloaded!
 
 Have fun!
+
+## ❗Disclaimers
+- Map demand data does not contain schools & airports data, the demand data will receive an update soon.
+- Demand data will be updated once all listed maps have an experimental or official build.
+- All population data listed below is from 2021.
 
 ## License
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc/4.0/)
