@@ -29,8 +29,10 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > A major historical and cultural city, located in northeastern Romania, in the historical region of Moldovia.
 > 
 > 👤**Population:** 271 000
+>
+> ⚙️**Version:** v0.1
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Actively%20worked%20on-green?style=for-the-badge)
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Experimental%20Map-orange?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/IAS-0.1/IAS.zip)
 
 ----
 
