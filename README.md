@@ -1,4 +1,4 @@
-![Subway Builder Romania](https://cloud.metatablestudios.com/index.php/s/qxGAqdef4GDEF77/preview)
+![Subway Builder Romania](https://cloud.metatablestudios.com/index.php/s/sb-romania-cover/preview)
 ## 🇷🇴 Romanian City Pack
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
