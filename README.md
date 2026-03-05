@@ -1,5 +1,6 @@
 ![Subway Builder Romania](https://cloud.metatablestudios.com/index.php/s/sb-romania-cover/preview)
 ## 🇷🇴 Romanian City Pack
+For installation of maps please follow the [guide](https://github.com/metatablestudios/subwaybuilder-romania/tree/main?tab=readme-ov-file#%EF%B8%8F-installation) below.
 ### 🌆Bucharest (Capital)
 > This map contains Bucharest and the greater metropolitan area. It is the capital of Romania, located in the southeastern part of the country. Also nicknamed the Little Paris or the Paris of the East.
 > 
