@@ -85,6 +85,8 @@ Have fun!
 - All population data listed below is from 2021.
 
 ## License
+Community made modding project for the game [Subway Builder](https://www.subwaybuilder.com/). Not affiliated or endorsed by Colin Miller or Redistricter, LLC. All rights reserved by their respective owners.
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Made with ❤️ by **the.inspector**
