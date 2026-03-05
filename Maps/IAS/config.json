@@ -1,0 +1,16 @@
+{
+    "name": "Iasi",
+    "code": "IAS",
+    "country": "RO",
+    "description": "A major historical and cultural city, located in northeastern Romania, in the historical region of Moldovia.",
+    "population": 271000,
+    "thumbnailBbox": [27.478938,47.093356,27.702825,47.225980],
+      "initialViewState": {
+        "zoom": 18,
+        "latitude": 47.159847,
+        "longitude": 27.584305,
+        "bearing": 0
+    },
+    "creator": "the.inspector",
+    "version": "1.0"
+}
