@@ -3,7 +3,7 @@
 *I'm currently working on more maps to add to this pack. It's also my first map that I release!*
 
 ### Disclaimers
-- Map demand data do not contain schools & airports data, the demand data will receive an update soon.
+- Map demand data does not contain schools & airports data, the demand data will receive an update soon.
 - Demand data will be updated once all listed maps have an experimental or official build.
 - All population data listed below is from 2021.
 
