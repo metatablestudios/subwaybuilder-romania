@@ -17,7 +17,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > 
 > 👤**Population:** 308 300
 >
-> ⚙️**Version:** v0.2
+> ⚙️**Version:** v1.0
 > 
 > *Official map will be available after the current experimental map has been thourghly tested*
 >
@@ -30,7 +30,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > 
 > 👤**Population:** 271 000
 >
-> ⚙️**Version:** v0.1
+> ⚙️**Version:** v1.0
 > 
 > [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Iasi%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/IAS.zip)
 
@@ -58,6 +58,8 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > A major port & industrial city in the eastern Romania. Located on the Danube River.
 > 
 > 👤**Population:** 184 500
+>
+> ⚙️**Version:** v1.0
 > 
 > [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Galati%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/GLT.zip)
 
