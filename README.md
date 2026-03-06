@@ -21,7 +21,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > 
 > *Official map will be available after the current experimental map has been thourghly tested*
 >
-> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Experimental%20Map-orange?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/v1.0/CLJ.zip)
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Cluj%20Napoca%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/CLJ.zip)
 
 ----
 
@@ -32,7 +32,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 >
 > ⚙️**Version:** v0.1
 > 
-> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Experimental%20Map-orange?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/download/IAS-0.1/IAS.zip)
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Iasi%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/IAS.zip)
 
 ----
 
@@ -41,7 +41,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > 
 > 👤**Population:** 250 000
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Planned-yellow?style=for-the-badge)
+> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Actively%20worked%20on-green?style=for-the-badge)
 
 ----
 
@@ -59,7 +59,7 @@ For installation of maps please follow the [guide](https://github.com/metatables
 > 
 > 👤**Population:** 184 500
 > 
-> ![Coming Soon](https://custom-icon-badges.demolab.com/badge/-Actively%20worked%20on-green?style=for-the-badge)
+> [![Download zip](https://custom-icon-badges.demolab.com/badge/-Download%20Galati%20Map-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/GLT.zip)
 
 ## 🚇Romanian Metro Trains
 
