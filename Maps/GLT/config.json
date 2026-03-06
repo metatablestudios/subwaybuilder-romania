@@ -1,0 +1,16 @@
+{
+    "name": "Galati",
+    "code": "GLT",
+    "country": "RO",
+    "description": "A major port & industrial city in the eastern Romania. Located on the Danube River.",
+    "population": 184500,
+    "thumbnailBbox": [27.899420,45.364874,28.163827,45.586402],
+      "initialViewState": {
+        "zoom": 18,
+        "latitude": 45.440996,
+        "longitude": 28.035783,
+        "bearing": 0
+    },
+    "creator": "the.inspector",
+    "version": "1.0"
+}
