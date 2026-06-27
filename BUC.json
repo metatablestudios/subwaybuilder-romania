@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "v1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-06-27",
+      "changelog": "Railyard Compatibility Update",
+      "download": "https://github.com/metatablestudios/subwaybuilder-romania/releases/download/v1.1.2/BUC.zip",
+      "sha256": "7d2ceb2bfb2accf5d9491b18d9c12922af96b701b7fbcff42dc0608c9737cfbf"
+    }
+  ]
+}
